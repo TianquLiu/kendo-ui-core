@@ -24,7 +24,7 @@ To enable the table editing, you should add the `TableEditing` tool to the widge
       .Tools(tools => tools.TableEditing())
     )
 ```
-```
+
 {% if site.core %}
 ```TagHelper
     <kendo-editor name="editor" style="height:440px" aria-label="editor">
